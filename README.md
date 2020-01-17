@@ -1,3 +1,3 @@
-## Uploaded templates:
+## Uploaded templates on https://gergelycsabanagy.github.io/emailTemplateTest/ :
 
-  - ../allen-decor-4-july.html
+  - https://gergelycsabanagy.github.io/emailTemplateTest/allen-decor-4-july.html
